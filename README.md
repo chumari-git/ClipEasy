@@ -1,4 +1,4 @@
-# ClipEasy
+# **ClipEasy**
 This repo is for a webpage project to make clipping easy
 
 It will be in python
@@ -15,3 +15,6 @@ It will be in python
 - Basic Effects tools
 - Custom/ Trending sound effects
 - suggest trending sounds from tictok youtube and spotify in one place
+
+Owner/s:
+- **Chum**
